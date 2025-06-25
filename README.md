@@ -18,7 +18,7 @@ This project builds a machine learning model to predict whether it will rain tom
 
 Models are evaluated using Accuracy and ROC-AUC score.
 
-![Classification report](Screenshot%202025-06-25%20235852.png)
+![Confusion Matrix](Screenshot%202025-06-25%20235852.png)
 
 
 ## Key Features
