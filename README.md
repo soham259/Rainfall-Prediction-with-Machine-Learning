@@ -14,6 +14,7 @@ This project builds a machine learning model to predict whether it will rain tom
 - Gradient Boosting
 - Linear SVM (with calibration)
 - K-Nearest Neighbors (KNN)
+  ![Rainfall Prediction](images/Screenshot 2025-06-25 235845.png)
 
 Models are evaluated using Accuracy and ROC-AUC score.
 
